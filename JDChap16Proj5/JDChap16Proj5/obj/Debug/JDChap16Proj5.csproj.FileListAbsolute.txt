@@ -1,0 +1,10 @@
+C:\Users\Josh\source\repos\JDChap16Proj5\JDChap16Proj5\bin\Debug\JDChap16Proj5.exe.config
+C:\Users\Josh\source\repos\JDChap16Proj5\JDChap16Proj5\bin\Debug\JDChap16Proj5.exe
+C:\Users\Josh\source\repos\JDChap16Proj5\JDChap16Proj5\bin\Debug\JDChap16Proj5.pdb
+C:\Users\Josh\source\repos\JDChap16Proj5\JDChap16Proj5\obj\Debug\JDChap16Proj5.csprojResolveAssemblyReference.cache
+C:\Users\Josh\source\repos\JDChap16Proj5\JDChap16Proj5\obj\Debug\JDChap16Proj5.Form1.resources
+C:\Users\Josh\source\repos\JDChap16Proj5\JDChap16Proj5\obj\Debug\JDChap16Proj5.Properties.Resources.resources
+C:\Users\Josh\source\repos\JDChap16Proj5\JDChap16Proj5\obj\Debug\JDChap16Proj5.csproj.GenerateResource.Cache
+C:\Users\Josh\source\repos\JDChap16Proj5\JDChap16Proj5\obj\Debug\JDChap16Proj5.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\JDChap16Proj5\JDChap16Proj5\obj\Debug\JDChap16Proj5.exe
+C:\Users\Josh\source\repos\JDChap16Proj5\JDChap16Proj5\obj\Debug\JDChap16Proj5.pdb
